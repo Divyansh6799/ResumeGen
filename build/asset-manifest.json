@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ResumeGen/static/css/main.fbee9516.css",
+    "main.js": "/ResumeGen/static/js/main.07a4c634.js",
+    "static/media/hero.svg": "/ResumeGen/static/media/hero.4246c7b31fe09afda1e2624a9fbc59f8.svg",
+    "index.html": "/ResumeGen/index.html",
+    "main.fbee9516.css.map": "/ResumeGen/static/css/main.fbee9516.css.map",
+    "main.07a4c634.js.map": "/ResumeGen/static/js/main.07a4c634.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbee9516.css",
+    "static/js/main.07a4c634.js"
+  ]
+}
